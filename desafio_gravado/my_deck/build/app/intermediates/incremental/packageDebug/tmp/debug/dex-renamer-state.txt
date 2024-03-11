@@ -1,0 +1,4 @@
+#Fri Feb 09 00:21:38 BRT 2024
+base.0=/Users/edsonmartins/Projetos/formacao_flutter/desafios/fase_9/my_deck/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
